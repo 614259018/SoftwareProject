@@ -1,5 +1,5 @@
 *.class
 *.txt
 
-!redme.txt
+!readme.txt
 !note.txt
